@@ -28,7 +28,6 @@ let Person1 = {
     fName : "Rahil",
     age : null
 }
-
 let a = Symbol("newFirstName");
 let b = Symbol("newSecondName");
 Person1["a"] = "my name is Rahil";
